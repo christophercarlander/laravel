@@ -1,3 +1,4 @@
 <div>
-    {{-- Walk as if you are kissing the Earth with your feet. - Thich Nhat Hanh --}}
+	<h1>Welcome!</h1>
+	<p>Look for the Welcome Livewire component to get started with your development.</p>
 </div>
